@@ -1,8 +1,8 @@
 # orbit-wars-agents
 
-Kaggle Simulation コンペ **[Orbit Wars](https://www.kaggle.com/competitions/orbit-wars)** に4ヶ月参戦したときのエージェント群と、公式実装との一致をゴールデンテストで保証した自作シミュレータの公開リポジトリです。
+Kaggle Simulation コンペ **[Orbit Wars](https://www.kaggle.com/competitions/orbit-wars)** に3ヶ月参戦したときのエージェント群と、公式実装との一致をゴールデンテストで保証した自作シミュレータの公開リポジトリです。
 
-解説記事（Zenn）: **ローカルで92%の検証精度のエージェントが実戦勝率1%だった — Claude CodeとKaggleに挑んだ4ヶ月**（リンクは公開後に追記）
+解説記事（Zenn）: **ローカルで92%の検証精度のエージェントが実戦勝率1%だった — Claude CodeとKaggleに挑んだ3ヶ月**（リンクは公開後に追記）
 
 > ⚠️ 本文・下表の勝率は特記ない限り**ローカル自己対戦**の値で、対戦相手プールに依存します。ローカル評価がいかに嘘をつくかは記事本文の主題です。
 
