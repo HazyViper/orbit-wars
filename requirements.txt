@@ -1,0 +1,7 @@
+# agents/ 配下は標準ライブラリのみで動作します。
+# producer_v11 / producer_v13_rollout の実行に必要:
+torch>=2.0
+# 対戦の実行・ゴールデンテストに必要:
+kaggle-environments>=1.14
+# テスト実行に必要:
+pytest>=7.0

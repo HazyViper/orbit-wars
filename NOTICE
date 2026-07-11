@@ -1,0 +1,19 @@
+orbit-wars-agents
+Copyright 2026 the repository owner
+
+This product includes software derived from "The Producer V2" by slawekbiel,
+published as a public Kaggle notebook:
+    https://www.kaggle.com/code/slawekbiel/the-producer-v2
+The orbit_lite/ package and producer_v11.py are a PyTorch port of that
+design (flow-diff scorer, candidate/shortlist structure, reinforcement-risk
+term) with modifications. Should the upstream notebook's license terms
+differ from Apache-2.0, the upstream terms take precedence for the derived
+parts.
+
+The Indirect Wealth heuristic in agents/v117_dp15.py is inspired by the
+indWealth function of the Halite 3 bot "oddshrimp" (idea only; no code was
+copied).
+
+simulator/test_golden.py uses kaggle-environments
+(https://github.com/Kaggle/kaggle-environments, Apache-2.0) as the
+reference implementation for equivalence testing.
